@@ -1,8 +1,8 @@
-import { Contract, providers, utils } from "ethers";
 import Head from "next/head";
 import Image from "next/image";	
 import React, { useEffect, useRef, useState } from "react";
 import Web3Modal from "web3modal";
+import { Contract, providers, utils } from "ethers";
 import { NFT_CONTRACT_ABI, NFT_CONTRACT_ADDRESS } from "../constants";
 import styles from "../styles/Home.module.css";
 
