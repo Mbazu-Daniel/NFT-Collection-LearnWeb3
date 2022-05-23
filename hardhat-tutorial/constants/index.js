@@ -1,4 +1,4 @@
 const WHITELIST_CONTRACT_ADDRESS="0x54914FE66ba22BdF7F36C50717213cd806830aA7"
-const METADATA_URL="";
+const METADATA_URL="https://nft-collection-devs.vercel.app/api/";
 
 module.exports = { WHITELIST_CONTRACT_ADDRESS, METADATA_URL}
