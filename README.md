@@ -1,3 +1,5 @@
-Crypto Devs Contract Address: 0x0ef27Fe09aC83e2dD277Bc0163fe029a90EF8Fd2
+Crypto Devs Contract Address: 0x12d9AAf88fD84635c6af51110F6653B635dFb5e8
 
 
+# Participate in the Public Sale 
+https://nft-collection-devs.vercel.app/
