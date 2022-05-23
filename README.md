@@ -1,4 +1,4 @@
-Crypto Devs Contract Address: 0x12d9AAf88fD84635c6af51110F6653B635dFb5e8
+Crypto Devs Contract Address: 0xb37f403cFF4fe5055A2D32E55AC9261979F0F479
 
 
 # Participate in the Public Sale 
